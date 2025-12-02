@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "FactTablesSSIS", "FactTablesSSIS\FactTablesSSIS.dtproj", "{ACDB6124-D3CA-E058-04BA-69674CAB1CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACDB6124-D3CA-E058-04BA-69674CAB1CCE}.Development|Default.ActiveCfg = Development
+		{ACDB6124-D3CA-E058-04BA-69674CAB1CCE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0255131-9BDC-4B86-BC5B-D6883FAEC34F}
+	EndGlobalSection
+EndGlobal
